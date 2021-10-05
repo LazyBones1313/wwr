@@ -2,11 +2,12 @@
     border: 2px solid red;
 }
 img {
-    display: block;    
-    width: 75%;
-    margin: 0 auto;
+    border: 5px solid green;
 }
 h1, p{
     border: 5px solid blue;
+    text-align: center;
+}
+#image-box {
     text-align: center;
 }
