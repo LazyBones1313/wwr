@@ -16,3 +16,12 @@ h1, p{
 #image-box {
     text-align: center;
 }
+p {
+    font-size: 3rem;
+}
+.para-box {
+    font-size: 12px;
+}
+body div {
+    background-color: pink;
+}
