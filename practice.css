@@ -3,6 +3,7 @@
 }
 img {
     display: block;    
+    width: 1000px;
 }
 h1, p{
     display: inline-block;
