@@ -1,8 +1,13 @@
 * {
     border: 2px solid red;
 }
+body {
+    font-size: 30px;
+}
 img {
     border: 5px solid green;
+    width: 1500px;
+    max-width: 1400px;
 }
 h1, p{
     border: 5px solid blue;
