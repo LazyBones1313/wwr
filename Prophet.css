@@ -1,5 +1,6 @@
-title {
-    font-size: 60px;
+h1, p{
+    text-align: center;
+    background-color: pink;
 }
 body div {
     background-color: pink;
