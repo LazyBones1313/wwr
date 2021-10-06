@@ -19,6 +19,10 @@ p {
     background-color: #f792be;
     text-align: center;
 }
+img {
+    width: 200px;
+    max-width: 1400px;
+}
 #image-box {
     text-align: center;
 }
