@@ -1,7 +1,28 @@
-h1, p{
+body {
+    background-color: #f792be;
+}
+header div {
+    background-color: #f792be;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
     text-align: center;
-    background-color: pink;
+    background-color: #f792be;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    background-color: #f792be;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    background-color: #f792be;
+    text-align: center;
+}
+#image-box {
+    text-align: center;
 }
 body div {
-    background-color: pink;
+    background-color: #f792be;
+    font-family: Arial, Helvetica, sans-serif;
 }
