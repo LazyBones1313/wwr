@@ -8,12 +8,11 @@ header div {
 h1{
     text-align: center;
     background-color: #f792be;
+    color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
 }
-h1{
-    text-align: center;
-    background-color: #f792be;
-    font-family: Arial, Helvetica, sans-serif;
+h1:hover { 
+    color:black;
 }
 p {
     background-color: #f792be;
